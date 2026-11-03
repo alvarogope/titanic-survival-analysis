@@ -31,8 +31,8 @@ so no download is needed. An internet connection is required to run the notebook
 Requires Python 3.10+.
 
 ```bash
-git clone <your-repo-url>
-cd survival-prediction-analysis
+git clone https://github.com/alvarogope/titanic-survival-analysis.git
+cd titanic-survival-analysis
 
 python -m venv .venv
 # Windows
